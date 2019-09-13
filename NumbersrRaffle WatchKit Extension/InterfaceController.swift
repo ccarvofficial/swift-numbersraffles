@@ -11,7 +11,16 @@ import Foundation
 
 
 class InterfaceController: WKInterfaceController {
-
+    
+    
+    @IBOutlet weak var numberRaffle: WKInterfaceLabel!
+    
+    
+    @IBAction func buttonRaffle() {
+        let number = arc4random_uniform(11)
+        numberRaffle.setText(String(number))
+    }
+    
     override func awake(withContext context: Any?) {
         super.awake(withContext: context)
         
