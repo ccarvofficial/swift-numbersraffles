@@ -10,7 +10,7 @@ Time for study and fun.
 
 ## Project Image
 
-![Project Image](https://github.com/ccarvofficial/applewatch-numbersraffeapp/blob/master/image/project-image.png)
+![Project Image](https://github.com/ccarvofficial/swift-numbersraffles/blob/master/image/project-image.png)
 
 ---
 ---
