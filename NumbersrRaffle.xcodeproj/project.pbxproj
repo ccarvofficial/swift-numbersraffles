@@ -80,6 +80,7 @@
 		91CE2CF4232B302600C92525 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		91CE2CF6232B302600C92525 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91CE2CF8232B302600C92525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91CE2D06232B41F800C92525 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 		91CE2CC3232B302200C92525 = {
 			isa = PBXGroup;
 			children = (
+				91CE2D06232B41F800C92525 /* README.md */,
 				91CE2CCE232B302200C92525 /* NumbersrRaffle */,
 				91CE2CE2232B302400C92525 /* NumbersrRaffle WatchKit App */,
 				91CE2CF1232B302500C92525 /* NumbersrRaffle WatchKit Extension */,

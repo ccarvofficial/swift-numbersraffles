@@ -14,14 +14,14 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="NumbersrRaffle_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <button alignment="center" title="Numbers Raffle" id="S7g-qT-BHb">
+                        <button alignment="center" verticalAlignment="center" title="Numbers Raffle" id="S7g-qT-BHb">
                             <color key="backgroundColor" red="0.57919406890000003" green="0.1280144453" blue="0.57268613580000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
                                 <action selector="buttonRaffle" destination="AgC-eL-Hgc" id="a9O-v5-N58"/>
                             </connections>
                         </button>
                         <label width="1" alignment="center" verticalAlignment="center" text="0" textAlignment="center" id="lli-by-fUG">
-                            <fontDescription key="font" type="boldSystem" pointSize="50"/>
+                            <fontDescription key="font" type="boldSystem" pointSize="79"/>
                         </label>
                     </items>
                     <connections>
