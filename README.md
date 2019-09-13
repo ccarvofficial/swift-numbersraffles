@@ -1,7 +1,7 @@
-#  Numbers Raffe App 
+#  Numbers Raffle App 
 > A Swift project.
 
-This is a project developed for Apple Watch called Numbers Raffe. Its goal is that after the button click action a random number is generated.
+This is a project developed for Apple Watch called Numbers Raffle. Its goal is that after the button click action a random number is generated.
 
 Time for study and fun.
 
@@ -9,6 +9,8 @@ Time for study and fun.
 - [Swift](https://swift.org/documentation/)
 
 ## Project Image
+
+![Project Image](https://github.com/ccarvofficial/applewatch-numbersraffeapp/blob/master/image/project-image.png)
 
 ---
 ---
